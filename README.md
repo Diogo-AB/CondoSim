@@ -34,7 +34,7 @@
 
 ## 🟩 Funcionalidades (1ª Onda)
 - Tela Principal com avisos e resumo financeiro
-- Agenda de Locais (reserva de salão, piscina, etc.)
+- Agenda de eventos(reuniões, assembleias e etc)
 - Mural Virtual com avisos e sugestões
 - Relatório de Gastos mensal acessível
 - Notificações automáticas e interativas
