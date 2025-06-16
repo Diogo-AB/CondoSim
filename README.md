@@ -28,7 +28,7 @@
 - **Márcia – Mãe Trabalhadora:** Organizada, quer praticidade no acesso a avisos e pagamentos
 - **João – Administrador:** Responsável por relatórios e avisos, deseja simplificar a comunicação
 - **Carlos – Morador Sênior:** Precisa de uma forma simples de ver boletos e avisos
-- **Luiza – Jovem Profissional:** Gosta de reservar áreas e acompanhar as finanças de forma digital
+- **Luiza – jovem empreendedora:** Gosta de acompanhar as finanças de forma digital
 
 ---
 
