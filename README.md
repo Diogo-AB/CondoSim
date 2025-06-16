@@ -1,9 +1,9 @@
-# 🧩 PRODUCT BACKLOG BUILDING - PBB CANVAS  
+# PRODUCT BACKLOG BUILDING - PBB CANVAS  
 **Nome do Produto:** CondoSim
 
 ---
 
-## 🔴 Problemas
+## Problemas
 - Falta de organização nas tarefas do condomínio
 - Informações descentralizadas (avisos, reservas, gastos)
 - Dificuldade em acessar relatórios financeiros
@@ -15,7 +15,7 @@
 
 ---
 
-## 🟢 Expectativas
+## Expectativas
 - Centralizar informações do condomínio em um só lugar
 - Aumentar a transparência financeira
 - Permitir que moradores acompanhem gastos mensais
@@ -24,7 +24,7 @@
 
 ---
 
-## 🟠 Personas
+## Personas
 - **Márcia – Mãe Trabalhadora:** Organizada, quer praticidade no acesso a avisos e pagamentos
 - **João – Administrador:** Responsável por relatórios e avisos, deseja simplificar a comunicação
 - **Carlos – Morador Sênior:** Precisa de uma forma simples de ver boletos e avisos
@@ -32,7 +32,7 @@
 
 ---
 
-## 🟩 Funcionalidades (1ª Onda)
+## Funcionalidades (1ª Onda)
 - Tela Principal com avisos e resumo financeiro
 - Agenda de eventos(reuniões, assembleias e etc)
 - Mural Virtual com avisos e sugestões
@@ -41,7 +41,7 @@
 
 ---
 
-## 🟨 PBIs (Product Backlog Items)
+## PBIs (Product Backlog Items)
 - Criar Tela Principal com lista de avisos
 - Implementar Agenda de reuniões e assembleias 
 - Criar Mural Virtual com suporte a comentários
