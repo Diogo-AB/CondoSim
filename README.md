@@ -43,7 +43,7 @@
 
 ## 🟨 PBIs (Product Backlog Items)
 - Criar Tela Principal com lista de avisos
-- Implementar Agenda de Locais com sistema de reservas
+- Implementar Agenda de reuniões e assembleias 
 - Criar Mural Virtual com suporte a comentários
 - Gerar Relatório de Gastos mensal para download e visualização
 - Desenvolver sistema de Notificações push e por e-mail
