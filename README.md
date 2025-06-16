@@ -1,7 +1,7 @@
 #CondoSim
 
 
-# VISÃO DO PRODUTO
+## VISÃO DO PRODUTO
 
 *Para os condomínios que não têm síndico*  
 *Cujo problema é a gestão de recursos financeiros e manutenção*  
