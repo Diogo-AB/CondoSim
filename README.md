@@ -20,8 +20,6 @@
 - Aumentar a transparência financeira
 - Permitir que moradores acompanhem gastos mensais
 - Notificar sobre reuniões, manutenções e eventos
-- Reduzir o trabalho do síndico ou responsável
-- Tornar o processo de reserva de espaços mais prático
 - Criar um painel intuitivo com informações úteis
 
 ---
