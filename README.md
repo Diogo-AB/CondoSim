@@ -212,14 +212,24 @@ Pagamento de contas
 
 ---
 
+
+
+
+
+
 ## Canvas MVP
 
-| Segmento de Clientes                              | Proposta de Valor                                        | Canais                         |
+| PERSONAS SEGMENTADAS                              | PROPOSTA DO MVP                                          | RESULTADO ESPERADO             |
 |---------------------------------------------------|----------------------------------------------------------|--------------------------------|
-| - *Márcia – Mãe Trabalhadora*  Usa agenda e notificações no dia a dia. | - Informações centralizadas no app  | - Aplicativo mobile            |
-| - *João – Administrador*  Gerencia serviços gerais, relatórios e advertências. | - Acompanhamento de gastos e notificações | - Notificações push e e-mail   |
-| - *Carlos – Morador Sênior* Consulta boletos e informações gerais. | - Agenda compartilhada                  | - E-mails                      |
-| - *Luiza – Jovem Profissional*  Reserva espaços e acompanha gastos via app.|                                 |                                |
+| - *Márcia – Mãe Trabalhadora*
+Usa agenda e notificações no dia a dia.             | - Reserva de áreas comuns (agenda).                      | - *Engajamento:* +70% dos moradores ativos mensalmente.|
+| - *João – Administrador*  
+Gerencia serviços gerais, relatórios e advertências.| - Envio de notificações a moradores.                     | - *Redução de tarefas sindicais:* 50% (informações automatizadas).|
+| - *Carlos – Morador Sênior* 
+Consulta boletos e informações gerais.              | - Geração e envio de relatórios de gastos.               | - *Transparência financeira:* feedback positivo em pesquisa de satisfação ≥ 4/5.|
+| - *Luiza – Jovem Profissional*
+Reserva espaços e acompanha gastos via app.         | - Consulta de boletos na área de pagamentos.             |                                |
+|                                                   | - Dashboard inicial com avisos e resumo financeiro.      |                                |
 
 | Relacionamento com Clientes                       | Fontes de Receita                                        | Atividades-Chave               |
 |---------------------------------------------------|----------------------------------------------------------|--------------------------------|
