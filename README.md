@@ -212,6 +212,27 @@ Pagamento de contas
 
 ---
 
+## Canvas MVP
+
+| Segmento de Clientes                              | Proposta de Valor                                        | Canais                         |
+|---------------------------------------------------|----------------------------------------------------------|--------------------------------|
+| - *Márcia – Mãe Trabalhadora*  Usa agenda e notificações no dia a dia. | - Informações centralizadas no app  | - Aplicativo mobile            |
+| - *João – Administrador*  Gerencia serviços gerais, relatórios e advertências. | - Acompanhamento de gastos e notificações | - Notificações push e e-mail   |
+| - *Carlos – Morador Sênior* Consulta boletos e informações gerais. | - Agenda compartilhada                  | - E-mails                      |
+| - *Luiza – Jovem Profissional*  Reserva espaços e acompanha gastos via app.|                                 |                                |
+
+| Relacionamento com Clientes                       | Fontes de Receita                                        | Atividades-Chave               |
+|---------------------------------------------------|----------------------------------------------------------|--------------------------------|
+| - Comunicação automatizada                        | - App gratuito                                           | - Geração de relatórios        |
+| - Envio de notificações relevantes                |                                                          | - Exibição de avisos           |
+|                                                   |                                                          | - Gerenciamento de agenda      |
+
+| Recursos-Chave                                    | Parcerias Principais                                     | Estrutura de Custos            |
+|---------------------------------------------------|----------------------------------------------------------|--------------------------------|
+| - Sistema de notificações                         | - Expo, Firebase                                         | - Servidores e banco de dados  |
+| - Banco de dados e interface mobile               | - Bibliotecas de agendamento e push                      | - Custo de envio de e-mails    |
+
+
 ## PRODUCT BACKLOG BUILDING - PBB CANVAS  
 **Nome do Produto:** CondoSim
 
