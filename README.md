@@ -176,8 +176,6 @@ Pagamento de contas
 - *Redução de tarefas sindicais:* 50% (informações automatizadas).
 - *Transparência financeira:* feedback positivo em pesquisa de satisfação ≥ 4/5.
 
----
-
 ### JORNADAS:
 
 - *Márcia – Mãe Trabalhadora*  
@@ -189,8 +187,6 @@ Pagamento de contas
 - *Carlos – Morador Sênior*  
   Recebe e-mail de gastos → acessa área de pagamentos → quita boleto → confirma pagamento.
 
----
-
 ### FUNCIONALIDADES:
 
 - *Tela Principal:* avisos, gastos, notificações.
@@ -201,8 +197,6 @@ Pagamento de contas
 - *Mapa de Moradores:* visualização interativa por andar.
 - *Informações Gerais:* regras, contatos, horários.
 
----
-
 ### MÉTRICAS PARA VALIDAR O NEGÓCIO:
 
 - *Taxa de adoção:* % de moradores cadastrados vs. Total.
@@ -212,41 +206,8 @@ Pagamento de contas
 
 ---
 
-
-
-
-
-
-## Canvas MVP
-
-| PERSONAS SEGMENTADAS                              | PROPOSTA DO MVP                                          | RESULTADO ESPERADO             |
-|---------------------------------------------------|----------------------------------------------------------|--------------------------------|
-| - *Márcia – Mãe Trabalhadora*
-Usa agenda e notificações no dia a dia.             | - Reserva de áreas comuns (agenda).                      | - *Engajamento:* +70% dos moradores ativos mensalmente.|
-| - *João – Administrador*  
-Gerencia serviços gerais, relatórios e advertências.| - Envio de notificações a moradores.                     | - *Redução de tarefas sindicais:* 50% (informações automatizadas).|
-| - *Carlos – Morador Sênior* 
-Consulta boletos e informações gerais.              | - Geração e envio de relatórios de gastos.               | - *Transparência financeira:* feedback positivo em pesquisa de satisfação ≥ 4/5.|
-| - *Luiza – Jovem Profissional*
-Reserva espaços e acompanha gastos via app.         | - Consulta de boletos na área de pagamentos.             |                                |
-|                                                   | - Dashboard inicial com avisos e resumo financeiro.      |                                |
-
-| Relacionamento com Clientes                       | Fontes de Receita                                        | Atividades-Chave               |
-|---------------------------------------------------|----------------------------------------------------------|--------------------------------|
-| - Comunicação automatizada                        | - App gratuito                                           | - Geração de relatórios        |
-| - Envio de notificações relevantes                |                                                          | - Exibição de avisos           |
-|                                                   |                                                          | - Gerenciamento de agenda      |
-
-| Recursos-Chave                                    | Parcerias Principais                                     | Estrutura de Custos            |
-|---------------------------------------------------|----------------------------------------------------------|--------------------------------|
-| - Sistema de notificações                         | - Expo, Firebase                                         | - Servidores e banco de dados  |
-| - Banco de dados e interface mobile               | - Bibliotecas de agendamento e push                      | - Custo de envio de e-mails    |
-
-
 ## PRODUCT BACKLOG BUILDING - PBB CANVAS  
 **Nome do Produto:** CondoSim
-
----
 
 ### Problemas
 - Falta de organização nas tarefas do condomínio
@@ -258,8 +219,6 @@ Reserva espaços e acompanha gastos via app.         | - Consulta de boletos na 
 - Sem histórico acessível de eventos e gastos
 - Nenhuma padronização na comunicação
 
----
-
 ### Expectativas
 - Centralizar informações do condomínio em um só lugar
 - Aumentar a transparência financeira
@@ -267,15 +226,11 @@ Reserva espaços e acompanha gastos via app.         | - Consulta de boletos na 
 - Notificar sobre reuniões, manutenções e eventos
 - Criar um painel intuitivo com informações úteis
 
----
-
 ### Personas
 - **Márcia – Mãe Trabalhadora:** Organizada, quer praticidade no acesso a avisos e pagamentos
 - **João – Administrador:** Responsável por relatórios e avisos, deseja simplificar a comunicação
 - **Carlos – Morador Sênior:** Precisa de uma forma simples de ver boletos e avisos
 - **Luiza – Jovem Empreendedora:** Gosta de acompanhar as finanças de forma digital
-
----
 
 ### Funcionalidades (1ª Onda)
 - Tela Principal com avisos e resumo financeiro
@@ -284,15 +239,9 @@ Reserva espaços e acompanha gastos via app.         | - Consulta de boletos na 
 - Relatório de Gastos mensal acessível
 - Notificações automáticas e interativas
 
----
-
 ### PBIs (Product Backlog Items)
 - Criar Tela Principal com lista de avisos
 - Implementar Agenda de reuniões e assembleias 
 - Criar Mural Virtual com suporte a comentários
 - Gerar Relatório de Gastos mensal para download e visualização
 - Desenvolver sistema de Notificações push e por e-mail
-
-
-
-
