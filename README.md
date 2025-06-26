@@ -130,7 +130,7 @@ Pagamento de contas
 
 ---
 
-# SEQUENCIADOR
+## SEQUENCIADOR
 
 | Funcionalidade        | Onda | MVP |
 |-----------------------|------|-----|
@@ -146,9 +146,9 @@ Pagamento de contas
 
 ---
 
-# Canvas MVP
+## CANVAS MVP
 
-## PERSONAS SEGMENTADAS:
+### PERSONAS SEGMENTADAS:
 
 - *Márcia – Mãe Trabalhadora*  
   Usa agenda e notificações no dia a dia.
@@ -162,7 +162,7 @@ Pagamento de contas
 - *Luiza – Jovem Profissional*  
   Reserva espaços e acompanha gastos via app.
 
-## PROPOSTA DO MVP:
+### PROPOSTA DO MVP:
 
 - Reserva de áreas comuns (agenda).
 - Envio de notificações a moradores.
@@ -170,7 +170,7 @@ Pagamento de contas
 - Consulta de boletos na área de pagamentos.
 - Dashboard inicial com avisos e resumo financeiro.
 
-## RESULTADO ESPERADO:
+### RESULTADO ESPERADO:
 
 - *Engajamento:* +70% dos moradores ativos mensalmente.
 - *Redução de tarefas sindicais:* 50% (informações automatizadas).
@@ -178,7 +178,7 @@ Pagamento de contas
 
 ---
 
-## JORNADAS:
+### JORNADAS:
 
 - *Márcia – Mãe Trabalhadora*  
   (ver tabela anterior)
@@ -191,7 +191,7 @@ Pagamento de contas
 
 ---
 
-## FUNCIONALIDADES:
+### FUNCIONALIDADES:
 
 - *Tela Principal:* avisos, gastos, notificações.
 - *Agenda de Locais:* reserva de salão, piscina etc.
@@ -203,7 +203,7 @@ Pagamento de contas
 
 ---
 
-## MÉTRICAS PARA VALIDAR O NEGÓCIO:
+### MÉTRICAS PARA VALIDAR O NEGÓCIO:
 
 - *Taxa de adoção:* % de moradores cadastrados vs. Total.
 - *Taxa de uso:* número médio de reservas/morador/mês.
@@ -217,7 +217,7 @@ Pagamento de contas
 
 ---
 
-## Problemas
+### Problemas
 - Falta de organização nas tarefas do condomínio
 - Informações descentralizadas (avisos, reservas, gastos)
 - Dificuldade em acessar relatórios financeiros
@@ -229,7 +229,7 @@ Pagamento de contas
 
 ---
 
-## Expectativas
+### Expectativas
 - Centralizar informações do condomínio em um só lugar
 - Aumentar a transparência financeira
 - Permitir que moradores acompanhem gastos mensais
@@ -238,7 +238,7 @@ Pagamento de contas
 
 ---
 
-## Personas
+### Personas
 - **Márcia – Mãe Trabalhadora:** Organizada, quer praticidade no acesso a avisos e pagamentos
 - **João – Administrador:** Responsável por relatórios e avisos, deseja simplificar a comunicação
 - **Carlos – Morador Sênior:** Precisa de uma forma simples de ver boletos e avisos
@@ -246,7 +246,7 @@ Pagamento de contas
 
 ---
 
-## Funcionalidades (1ª Onda)
+### Funcionalidades (1ª Onda)
 - Tela Principal com avisos e resumo financeiro
 - Agenda de eventos(reuniões, assembleias e etc)
 - Mural Virtual com avisos e sugestões
@@ -255,7 +255,7 @@ Pagamento de contas
 
 ---
 
-## PBIs (Product Backlog Items)
+### PBIs (Product Backlog Items)
 - Criar Tela Principal com lista de avisos
 - Implementar Agenda de reuniões e assembleias 
 - Criar Mural Virtual com suporte a comentários
