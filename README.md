@@ -246,6 +246,14 @@ Pagamento de contas
 - Gerar Relatório de Gastos mensal para download e visualização
 - Desenvolver sistema de Notificações push e por e-mail
 
+## Protótipo de Baixa Qualidade
+
+![Protótipo de Baixa Qualidade](https://github.com/Diogo-AB/CondoSim/blob/main/prot%C3%B3tipo%20de%20baixa%20qualidade/prot%C3%B3tipo%20de%20baixa%20qualidade.jpg)
+
+## Protótipo de Alta Qualidade
+
+![Protótipo de Alta Qualidade](https://github.com/Diogo-AB/CondoSim/blob/main/prot%C3%B3tipo%20de%20alta%20qualidade/prot%C3%B3tipo%20de%20alta%20qualidade%20.jpg)
+
 ## Diagrama de Classes de Domínio
 
 ![Diagrama de Classes de Domínio](https://github.com/Diogo-AB/CondoSim/blob/main/diagrama%20de%20classes%20de%20dom%C3%ADnio/diagrama%20de%20classes%20de%20dom%C3%ADnio.jpg)
