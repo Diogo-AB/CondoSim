@@ -245,3 +245,7 @@ Pagamento de contas
 - Criar Mural Virtual com suporte a comentários
 - Gerar Relatório de Gastos mensal para download e visualização
 - Desenvolver sistema de Notificações push e por e-mail
+
+## Diagrama de Classes de Domínio
+
+![Diagrama de Classes de Domínio](https://github.com/Diogo-AB/CondoSim/blob/main/diagrama%20de%20classes%20de%20dom%C3%ADnio/diagrama%20de%20classes%20de%20dom%C3%ADnio.jpg)
